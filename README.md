@@ -2,7 +2,7 @@
 
 In this repository, you can find my **personal projects**. As of now, a personal project available for viewing is:
 - Air Quality in Canada Visualization 
-- European Game Sales 
+- Predicting European Game Sales 
 
 ---
 
@@ -22,7 +22,7 @@ In addition to major air pollutants, I will also focus on emissions of fine part
 
 ---
 
-## European Game Sales
+## Predicting European Game Sales
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2020/05/02/07/32/gaming-5120169_960_720.jpg" with="500" />
 </p>
