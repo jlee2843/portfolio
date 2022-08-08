@@ -5,6 +5,8 @@ In this repository, you can find my **resume** and a **personal project**.
 - Air Quality in Canada Visualization (data visualization)
 - European Game Sales (machine learning)
 
+---
+
 ## Air Quality in Canada Visualization
 ![air-quality-image](https://www.aqi.in/blog/wp-content/uploads/2020/10/Decreasing-air-quality-of-Delhi-and-rising-pollution.jpg)
 
@@ -16,3 +18,8 @@ In addition to major air pollutants, I will also focus on emissions of fine part
 - **Programming language used**: Python 3
 - **Step 1**: data cleaning 
 - **Setp 2**: data visualization
+
+---
+
+## European Game Sales
+![european-game-image](https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/65008-gettyimages-843648918-0f8d9c2b69c5265608289c34ec9e030a.jpg)
