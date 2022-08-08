@@ -10,7 +10,7 @@ In this repository, you can find my **resume** and a **personal project**.
 ## Air Quality in Canada Visualization
 <!-- ![air-quality-image](https://www.aqi.in/blog/wp-content/uploads/2020/10/Decreasing-air-quality-of-Delhi-and-rising-pollution.jpg){width=500} -->
 <p align="center">
-  <img src="https://cdn.pixabay.com/photo/2019/02/24/09/13/air-pollution-4017183_960_720.jpg" with="600" />
+  <img src="https://cdn.pixabay.com/photo/2019/02/24/09/13/air-pollution-4017183_960_720.jpg" with="500" />
 </p>
 
 ❗️ **Question to be answered:** 
