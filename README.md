@@ -9,7 +9,9 @@ In this repository, you can find my **resume** and a **personal project**.
 
 ## Air Quality in Canada Visualization
 <!-- ![air-quality-image](https://www.aqi.in/blog/wp-content/uploads/2020/10/Decreasing-air-quality-of-Delhi-and-rising-pollution.jpg){width=500} -->
-<img src="https://cdn.pixabay.com/photo/2019/02/24/09/13/air-pollution-4017183_960_720.jpg" with="700" height="350" align="center" />
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2019/02/24/09/13/air-pollution-4017183_960_720.jpg" with="600" />
+</p>
 
 ❗️ **Question to be answered:** 
 <br>Numerous research have suggested possibilities of air pollution exposure leading to detrimental health conditions for humans. [Health Canada](https://www.canada.ca/en/health-canada/services/publications/healthy-living/2021-health-effects-indoor-air-pollution.html) estimates that air pollution contributes to **15,300 deaths per year** in Canada. To fight against air pollution, the [Government of Canada](https://www.canada.ca/en/environment-climate-change/campaigns/canadian-environment-week/clean-air-day/action-air-pollution.html#toc1) launched an ambitious plan, the 2030 Emissions Reduction Plan, which aims to reduce pollutants emissions to net-zero by 2050. In this project, I will investigate changes in trends in air pollution by looking at air pollutants emission from 1990 to 2020. Specifically, did the total emission decrease or increase during this period? 
