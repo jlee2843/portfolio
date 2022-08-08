@@ -8,7 +8,6 @@ In this repository, you can find my **resume** and a **personal project**.
 ---
 
 ## Air Quality in Canada Visualization
-<!-- ![air-quality-image](https://www.aqi.in/blog/wp-content/uploads/2020/10/Decreasing-air-quality-of-Delhi-and-rising-pollution.jpg){width=500} -->
 <p align="center">
   <img src="https://cdn.pixabay.com/photo/2019/02/24/09/13/air-pollution-4017183_960_720.jpg" with="500" />
 </p>
@@ -25,4 +24,6 @@ In addition to major air pollutants, I will also focus on emissions of fine part
 ---
 
 ## European Game Sales
-![european-game-image](https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/65008-gettyimages-843648918-0f8d9c2b69c5265608289c34ec9e030a.jpg)
+<p align="center">
+  <img src="https://cdn.pixabay.com/photo/2020/05/02/07/32/gaming-5120169_960_720.jpg" with="500" />
+</p>
