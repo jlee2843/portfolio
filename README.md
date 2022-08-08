@@ -2,7 +2,8 @@
 
 In this repository, you can find my **resume** and a **personal project**. 
 <br>As of now, a personal project available for viewing is:
-- Air Quality in Canada Visualization
+- Air Quality in Canada Visualization (data visualization)
+- European Game Sales (machine learning)
 
 ## Air Quality in Canada Visualization
 ![air-quality-image](https://www.aqi.in/blog/wp-content/uploads/2020/10/Decreasing-air-quality-of-Delhi-and-rising-pollution.jpg)
