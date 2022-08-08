@@ -1,7 +1,6 @@
 # Portfolio: Jenny Lee
 
-In this repository, you can find my **personal projects**. 
-<br>As of now, a personal project available for viewing is:
+In this repository, you can find my **personal projects**. As of now, a personal project available for viewing is:
 - Air Quality in Canada Visualization (data visualization)
 - European Game Sales (machine learning)
 
