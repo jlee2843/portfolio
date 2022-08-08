@@ -1,8 +1,8 @@
 # Portfolio: Jenny Lee
 
 In this repository, you can find my **personal projects**. As of now, a personal project available for viewing is:
-- Air Quality in Canada Visualization (data visualization)
-- European Game Sales (machine learning)
+- Air Quality in Canada Visualization 
+- European Game Sales 
 
 ---
 
