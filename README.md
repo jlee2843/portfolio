@@ -3,6 +3,7 @@
 In this repository, you can find my **personal projects**. As of now, personal project savailable for viewings are:
 - Air Quality in Canada Visualization 
 - Predicting European Game Sales 
+- SCOPE Algorithm 
 
 ---
 
